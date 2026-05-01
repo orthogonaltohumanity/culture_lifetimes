@@ -1,7 +1,6 @@
 # Cliopatria polity-lifespan distribution fits
 
-Note: This is a one-shot vibe-coded project. (Opus 4.7)https://www.pewresearch.org/global/2025/10/15/how-people-around-the-world-view-ai/
-
+Note: This is a one-shot vibe-coded project. (Opus 4.7)
 Replication code for fitting exponential, power-law, lognormal, and truncated
 power-law distributions to polity lifespans in the
 [Cliopatria](https://github.com/Seshat-Global-History-Databank/cliopatria)
